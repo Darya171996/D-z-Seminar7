@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "двумерный массив mn. Заполненный случайными вещественными числами/1.0.0": {
+        "runtime": {
+          "двумерный массив mn. Заполненный случайными вещественными числами.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "двумерный массив mn. Заполненный случайными вещественными числами/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
